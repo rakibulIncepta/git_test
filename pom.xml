@@ -35,7 +35,7 @@
 						<java-version>8</java-version>
 						<muleVersion>4.6-java8</muleVersion>
 						<username>${anypoint.username}</username>
-						<releaseChannel>EDGE</releaseChannel>
+						<releaseChannel>LTS</releaseChannel>
 						<password>${anypoint.password}</password>
 						<applicationName>ab-1</applicationName>
 						<environment>DEV-2</environment>
