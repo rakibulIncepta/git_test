@@ -33,9 +33,9 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<java-version>8</java-version>
-						<muleVersion>4.6-java8</muleVersion>
+						<muleVersion>4.8-e-java8</muleVersion>
 						<username>${anypoint.username}</username>
-						<releaseChannel>LTS</releaseChannel>
+						<releaseChannel>Edge</releaseChannel>
 						<password>${anypoint.password}</password>
 						<applicationName>ab-1</applicationName>
 						<environment>DEV-2</environment>
